@@ -1,0 +1,11 @@
+{
+  "name": "tileshop-root",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir project dev",
+    "build": "pnpm --dir project build",
+    "start": "pnpm --dir project start",
+    "lint": "pnpm --dir project lint",
+    "typecheck": "pnpm --dir project typecheck"
+  }
+}

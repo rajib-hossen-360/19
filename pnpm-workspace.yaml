@@ -1,0 +1,4 @@
+packages:
+  - 'project'
+allowBuilds:
+  unrs-resolver: true
