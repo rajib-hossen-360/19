@@ -90,7 +90,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-2 group focus:outline-none">
             <img
               src="/logo.png"
-              alt="The Tile Shop"
+              alt="Webkyro"
               className="h-8 sm:h-10 w-auto max-h-12 object-contain transition-transform group-hover:scale-[1.01]"
             />
           </Link>
@@ -370,7 +370,7 @@ export default function Header() {
             {/* Drawer Header */}
             <div className="p-4 sm:p-5 border-b border-stone-200 flex items-center justify-between bg-white shrink-0">
               <Link href="/" onClick={() => setMobileMenuOpen(false)}>
-                <img src="/logo.png" alt="The Tile Shop" className="h-8 w-auto object-contain" />
+                <img src="/logo.png" alt="Webkyro" className="h-8 w-auto object-contain" />
               </Link>
               <button
                 onClick={() => setMobileMenuOpen(false)}
