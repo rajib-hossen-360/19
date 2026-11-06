@@ -7,10 +7,10 @@ export interface Product {
   boxSqFt: number;
   rating: number;
   reviewsCount: number;
-  material: 'Porcelain' | 'Ceramic' | 'Marble' | 'Slate' | 'Travertine' | 'Glass';
-  finish: 'Glossy' | 'Matte' | 'Polished' | 'Honed' | 'Satin';
+  material: 'Porcelain' | 'Ceramic' | 'Marble' | 'Slate' | 'Travertine' | 'Glass' | 'Wood-Look Porcelain' | 'Luxury Vinyl (LVP)';
+  finish: 'Glossy' | 'Matte' | 'Polished' | 'Honed' | 'Satin' | 'Embossed Wood Texture' | 'Satin Matte' | 'Deep Grain Textured';
   application: string[];
-  rooms: ('kitchen' | 'bathroom' | 'backsplash' | 'shower' | 'outdoor' | 'laundry')[];
+  rooms: ('kitchen' | 'bathroom' | 'backsplash' | 'shower' | 'outdoor' | 'laundry' | 'wood-vinyl')[];
   collection: 'new-arrivals' | 'best-sellers' | 'checkerboard' | 'clearance' | 'tiles-under-7' | 'porcelain-slabs';
   image: string;
   images: string[];
