@@ -1,0 +1,25 @@
+PRODUCT NAME: Aurelia Tile Studio Storefront
+
+CATEGORY: E-commerce / Home Improvement & Interior Design
+
+PRICE (USD): $59
+
+COMPARE-AT PRICE (USD): $89
+
+RATING: 0
+
+REVIEW COUNT: 0
+
+CARD TAG: Featured
+
+DESCRIPTION: A polished tile and flooring storefront featuring curated collections, room-by-room discovery, and detailed product browsing. Help customers plan projects with tile samples, saved favorites, and built-in coverage calculations.
+
+HERO TAGLINE: Beautiful Spaces Begin Underfoot.
+
+TECHNOLOGIES: Next.js, React, TypeScript, Tailwind CSS
+
+INCLUDED PAGES: Home, Room Category, Featured Collection, Tile Category, Product Details
+
+FEATURES: Responsive storefront layout, Mega-menu and mobile navigation, Room-based tile discovery, Featured collection browsing, Product filtering by material and finish, Price and rating sorting, Product detail galleries, Tile coverage and box calculator, $3 sample ordering interface, Persistent wishlist and sample tray, Related product recommendations, Store finder and account UI
+
+INCLUDED WITH YOUR PURCHASE: Five reusable page templates with dynamic room and collection routes, 17 sample tile and flooring product records, Shared header footer and shopping-state components, Brand logo favicon and app icon assets
